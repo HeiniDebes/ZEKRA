@@ -1,0 +1,5 @@
+main
+*.txt
+# *.log
+*.arith
+*.in

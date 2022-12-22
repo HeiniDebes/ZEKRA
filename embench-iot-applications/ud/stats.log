@@ -1,0 +1,16 @@
+
+./embench-iot-applications/ud
+Min addr: 0x400000
+Max addr: 0x807fff (bitwidth=24)
+CFG has 133 nodes and 174 edges
+Adjacency list max_neighbors: 3 ['64', '77', '74']
+Bucket-rems pairs (levels) required to express the encoded adjacency list: 2
+Execution path died because it: reached an exit
+Execution path length pre compression: 393
+Number of consecutively repeated sequences: 25
+Average (mean) length of sequences: 3.76 (std=2.20)
+Average (mean) number of sequence repetitions: 4.60 (std=7.31)
+Execution path length post compression: 185
+Max stack depth: 5
+Execution path is valid according to the adjlist: True
+

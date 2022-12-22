@@ -1,0 +1,16 @@
+
+./embench-iot-applications/picojpeg
+Min addr: 0x400000
+Max addr: 0x807fff (bitwidth=24)
+CFG has 633 nodes and 1168 edges
+Adjacency list max_neighbors: 37 ['277', '278', '279', '280', '281', '282', '283', '284', '285', '286', '287', '288', '289', '290', '291', '292', '293', '294', '295', '296', '297', '298', '299', '300', '301', '302', '303', '304', '305', '306', '307', '308', '309', '310', '311', '312', '71']
+Bucket-rems pairs (levels) required to express the encoded adjacency list: 7
+Execution path died because it: something happened
+Execution path length pre compression: 1875
+Number of consecutively repeated sequences: 6
+Average (mean) length of sequences: 12.50 (std=8.46)
+Average (mean) number of sequence repetitions: 31.67 (std=20.90)
+Execution path length post compression: 335
+Max stack depth: 11
+Execution path is valid according to the adjlist: True
+

@@ -1,0 +1,16 @@
+
+./embench-iot-applications/cubic
+Min addr: 0x400000
+Max addr: 0x807fff (bitwidth=24)
+CFG has 147 nodes and 198 edges
+Adjacency list max_neighbors: 8 ['106', '104', '102', '107', '105', '100', '101', '67']
+Bucket-rems pairs (levels) required to express the encoded adjacency list: 3
+Execution path died because it: the error 'Unsupported dirty helper amd64g_dirtyhelper_storeF80le' was raised
+Execution path length pre compression: 105
+Number of consecutively repeated sequences: 1
+Average (mean) length of sequences: 1.00 (std=0.00)
+Average (mean) number of sequence repetitions: 96.00 (std=0.00)
+Execution path length post compression: 10
+Max stack depth: 5
+Execution path is valid according to the adjlist: True
+

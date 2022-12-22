@@ -1,0 +1,16 @@
+
+./embench-iot-applications/sglib-combined
+Min addr: 0x400000
+Max addr: 0x807fff (bitwidth=24)
+CFG has 728 nodes and 1084 edges
+Adjacency list max_neighbors: 5 ['182', '313', '29', '314', '315']
+Bucket-rems pairs (levels) required to express the encoded adjacency list: 3
+Execution path died because it: reached an exit
+Execution path length pre compression: 8191
+Number of consecutively repeated sequences: 105
+Average (mean) length of sequences: 12.63 (std=16.62)
+Average (mean) number of sequence repetitions: 7.90 (std=20.19)
+Execution path length post compression: 868
+Max stack depth: 8
+Execution path is valid according to the adjlist: True
+

@@ -1,0 +1,16 @@
+
+./embench-iot-applications/aha-mont64
+Min addr: 0x400000
+Max addr: 0x807fff (bitwidth=24)
+CFG has 114 nodes and 151 edges
+Adjacency list max_neighbors: 6 ['75', '76', '77', '78', '79', '66']
+Bucket-rems pairs (levels) required to express the encoded adjacency list: 2
+Execution path died because it: reached an exit
+Execution path length pre compression: 997
+Number of consecutively repeated sequences: 109
+Average (mean) length of sequences: 2.82 (std=1.55)
+Average (mean) number of sequence repetitions: 3.01 (std=1.50)
+Execution path length post compression: 110
+Max stack depth: 5
+Execution path is valid according to the adjlist: True
+

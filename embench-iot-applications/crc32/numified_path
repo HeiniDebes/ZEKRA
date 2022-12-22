@@ -1,0 +1,25 @@
+initial_node=0 final_node=72
+call 1 78
+call 5 72
+call 6 7
+ret 7
+call 38 62
+call 37 39
+jump 54
+call 20 21
+ret 21
+call 61 60
+call 18 19
+ret 19
+jump 64
+call 18 19
+ret 19
+jump 63
+ret 60
+jump 65
+jump 55
+ret 39
+ret 62
+call 40 41
+ret 41
+ret 72

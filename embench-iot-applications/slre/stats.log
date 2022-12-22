@@ -1,0 +1,16 @@
+
+embench-iot-applications/slre
+Min addr: 0x400000
+Max addr: 0x807fff (bitwidth=24)
+CFG has 347 nodes and 528 edges
+Adjacency list max_neighbors: 6 ['107', '108', '109', '110', '111', '112']
+Bucket-rems pairs (levels) required to express the encoded adjacency list: 2
+Execution path died because it: reached an exit
+Execution path length pre compression: 2217
+Number of consecutively repeated sequences: 5
+Average (mean) length of sequences: 13.40 (std=12.47)
+Average (mean) number of sequence repetitions: 10.80 (std=16.12)
+Execution path length post compression: 609
+Max stack depth: 13
+Execution path is valid according to the adjlist: True
+
